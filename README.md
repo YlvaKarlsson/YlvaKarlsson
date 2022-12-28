@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @YlvaKarlsson
+- 👀 I’m interested in 🐎, 💻, 🌲 and I also think that life is a party so play your part and have fun while doing it! 🎉
+- 🌱 I’m currently learning coding with 💻 which makes me feel like the Hacker Cat 🐱‍💻
+- 💞️ I’m looking to collaborate on funny projects at the Technigo Web Boot Camp spring 2023 - let's go! 🤗
+- 📫 How to reach me - 💻📱💌 (I prefer text over phone calls)
+- 😊 My personality - I am a friendly, happy and outgoing kind of person with lots of energy!
+- 🥰 LinkedIn: https://www.linkedin.com/in/ylvakarlsson87/ 

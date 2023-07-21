@@ -1,10 +1,9 @@
-- 👋 Hi, my name is @YlvaKarlsson and I live in Skåne (the south part of Sweden).
-- 👀 I’m interested in 🐎, 💻, 🌲 and I also think that life is a party so play your part and have fun while doing it! 🎉
-- 🌱 I’m currently learning coding with Technigo and will graduate from their Web Development Boot Camp in June 2023
-- 🎇 I'm currently developing my skills in Node.js and MongoDB while working on the Final Project for the Boot Camp (both backend and frontend)
-- 📫 How to reach me - https://www.linkedin.com/in/ylvakarlsson87/ 
-- 😊 My personality - I am a friendly, happy and outgoing kind of person with lots of energy!
-- 📍    📍     📍      📍      📍      📍
+- 👋 Hi, my name is @YlvaKarlsson and I live in Skåne (Sweden).
+- 👀 I’m interested in 🐎, 💻, 🌲 and I also like to workout.
+- 🌱 I’m currently in the beginning of my coding journey and spent the first half of 2023 in the Web Development Boot Camp with Technigo (graduated 16/6)
+- 🎇 In the future I look forward to developing my skills in code (both backend and frontend) and I'm thrilled for the future!
+- 📫 Add me on LinkedIn - https://www.linkedin.com/in/ylvakarlsson87/ 
+- 😊 Personal KPI's - friendly, happy and outgoing kind of person with lots of energy!
 - .
 - ⭐⭐    ----  SKILLS  ----    ⭐⭐
 - 🎇CODE🎇 || HTML5 || CSS3 || JavaScript ES6 || React || Redux || Express || Node.js || MongoDB ||
